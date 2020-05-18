@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.company</OriginalElement>
+  <nodes>
+    <node x="176.46258503401367" y="2599.0">com.company.Instructor</node>
+    <node x="368.02210884353747" y="427.5">com.company.Confiteria</node>
+    <node x="48.02210884353747" y="384.0">com.company.Medio</node>
+    <node x="863.0221088435375" y="0.0">com.company.Menu</node>
+    <node x="63.52380952380955" y="915.0">com.company.ComplejoInvernal</node>
+    <node x="214.0" y="148.0">com.company.AeroSilla</node>
+    <node x="0.0" y="181.5">com.company.Molinete</node>
+    <node x="10.105442176870724" y="0.0">com.company.LectorDeTarjetas</node>
+    <node x="136.9863945578232" y="1991.0">com.company.CabinaInstructores</node>
+    <node x="272.4863945578232" y="1271.0">com.company.Esquiador</node>
+    <node x="713.0221088435375" y="0.0">com.company.Mostrador</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.company.ComplejoInvernal" target="com.company.Medio">
+      <point x="-37.5" y="-148.0" />
+      <point x="176.02380952380955" y="895.0" />
+      <point x="198.02210884353747" y="895.0" />
+      <point x="0.0" y="235.5" />
+    </edge>
+    <edge source="com.company.Esquiador" target="com.company.Instructor">
+      <point x="125.0" y="335.0" />
+      <point x="547.4863945578231" y="1971.0" />
+      <point x="474.7363945578232" y="1971.0" />
+      <point x="474.7363945578232" y="2579.0" />
+      <point x="457.71258503401367" y="2579.0" />
+      <point x="131.25" y="-269.0" />
+    </edge>
+    <edge source="com.company.Medio" target="com.company.Esquiador">
+      <point x="99.99999999999997" y="235.5" />
+      <point x="298.02210884353747" y="875.0" />
+      <point x="451.4030612244899" y="875.0" />
+      <point x="451.4030612244899" y="1251.0" />
+      <point x="447.4863945578232" y="1251.0" />
+      <point x="25.0" y="-335.0" />
+    </edge>
+    <edge source="com.company.Medio" target="com.company.AeroSilla">
+      <point x="24.99999999999997" y="-235.5" />
+      <point x="223.02210884353744" y="364.0" />
+      <point x="264.0" y="364.0" />
+      <point x="-100.0" y="93.0" />
+    </edge>
+    <edge source="com.company.CabinaInstructores" target="com.company.Instructor">
+      <point x="100.0" y="269.0" />
+      <point x="386.9863945578232" y="2549.0" />
+      <point x="345.21258503401367" y="2549.0" />
+      <point x="18.75" y="-269.0" />
+    </edge>
+    <edge source="com.company.Instructor" target="com.company.Esquiador">
+      <point x="56.25" y="-269.0" />
+      <point x="382.71258503401367" y="2559.0" />
+      <point x="452.7363945578232" y="2559.0" />
+      <point x="452.7363945578232" y="1971.0" />
+      <point x="447.4863945578232" y="1971.0" />
+      <point x="25.0" y="335.0" />
+    </edge>
+    <edge source="com.company.Medio" target="com.company.Molinete">
+      <point x="-25.00000000000003" y="-235.5" />
+      <point x="173.02210884353744" y="364.0" />
+      <point x="161.66666666666669" y="364.0" />
+      <point x="64.66666666666669" y="59.5" />
+    </edge>
+    <edge source="com.company.CabinaInstructores" target="com.company.Esquiador">
+      <point x="0.0" y="-269.0" />
+      <point x="286.9863945578232" y="1971.0" />
+      <point x="297.4863945578232" y="1971.0" />
+      <point x="-125.0" y="335.0" />
+    </edge>
+    <edge source="com.company.ComplejoInvernal" target="com.company.CabinaInstructores">
+      <point x="-42.85714285714283" y="148.0" />
+      <point x="170.50000000000006" y="1971.0" />
+      <point x="166.9863945578232" y="1971.0" />
+      <point x="-120.0" y="-269.0" />
+    </edge>
+    <edge source="com.company.Esquiador" target="com.company.Confiteria">
+      <point x="75.0" y="-335.0" />
+      <point x="497.4863945578232" y="1241.0" />
+      <point x="555.5221088435375" y="1241.0" />
+      <point x="37.5" y="192.0" />
+    </edge>
+    <edge source="com.company.Molinete" target="com.company.LectorDeTarjetas">
+      <point x="48.5" y="-59.5" />
+      <point x="145.5" y="123.0" />
+      <point x="135.35544217687072" y="123.0" />
+      <point x="41.75" y="49.0" />
+    </edge>
+    <edge source="com.company.Confiteria" target="com.company.Esquiador">
+      <point x="112.49999999999994" y="192.0" />
+      <point x="630.5221088435374" y="895.0" />
+      <point x="566.5221088435375" y="895.0" />
+      <point x="566.5221088435375" y="1251.0" />
+      <point x="547.4863945578231" y="1251.0" />
+      <point x="125.0" y="-335.0" />
+    </edge>
+    <edge source="com.company.Esquiador" target="com.company.CabinaInstructores">
+      <point x="-25.0" y="335.0" />
+      <point x="397.4863945578232" y="1971.0" />
+      <point x="406.9863945578232" y="1971.0" />
+      <point x="120.0" y="-269.0" />
+    </edge>
+    <edge source="com.company.ComplejoInvernal" target="com.company.Esquiador">
+      <point x="128.5714285714286" y="148.0" />
+      <point x="342.0952380952382" y="1231.0" />
+      <point x="397.4863945578232" y="1231.0" />
+      <point x="-25.0" y="-335.0" />
+    </edge>
+    <edge source="com.company.Instructor" target="com.company.CabinaInstructores">
+      <point x="-18.75" y="-269.0" />
+      <point x="307.71258503401367" y="2579.0" />
+      <point x="286.9863945578232" y="2579.0" />
+      <point x="0.0" y="269.0" />
+    </edge>
+    <edge source="com.company.ComplejoInvernal" target="com.company.Confiteria">
+      <point x="112.5" y="-148.0" />
+      <point x="326.0238095238095" y="895.0" />
+      <point x="480.52210884353747" y="895.0" />
+      <point x="-37.5" y="192.0" />
+    </edge>
+    <edge source="com.company.Esquiador" target="com.company.ComplejoInvernal">
+      <point x="-75.0" y="-335.0" />
+      <point x="347.4863945578232" y="1241.0" />
+      <point x="299.2380952380953" y="1241.0" />
+      <point x="85.71428571428572" y="148.0" />
+    </edge>
+    <edge source="com.company.Instructor" target="com.company.ComplejoInvernal">
+      <point x="-93.75" y="-269.0" />
+      <point x="232.71258503401367" y="2569.0" />
+      <point x="126.48639455782319" y="2569.0" />
+      <point x="126.48639455782319" y="1251.0" />
+      <point x="127.80952380952385" y="1251.0" />
+      <point x="-85.7142857142857" y="148.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="176.0" y="1285.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Properties</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

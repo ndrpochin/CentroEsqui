@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/UI/Grafica.java" line="281" />
+    <bookmark url="file://$PROJECT_DIR$/src/UI/Grafica.java" line="279" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="790daed0-d77e-40d8-aa94-e0190c7b2def" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/UI/MiEventoListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Instructor.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/UI/Delegado.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/UI/Observado.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/UI/Observador.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/UI/ObservadorTemporal.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/UI/App.java" afterPath="$PROJECT_DIR$/src/UI/App.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/UI/Grafica.java" afterPath="$PROJECT_DIR$/src/UI/Grafica.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CentroEsqui$App.coverage" NAME="App Coverage Results" MODIFIED="1506482796326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>UI.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/CentroEsqui$Grafica.coverage" NAME="Grafica Coverage Results" MODIFIED="1501177617295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>UI.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CabinaInstructores.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/CabinaInstructores.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="285" column="0" lean-forward="false" selection-start-line="285" selection-start-column="0" selection-end-line="285" selection-end-column="0" />
+              <folding>
+                <element signature="method#CabinaInstructores#0;class#CabinaInstructores#0" expanded="false" />
+                <element signature="docComment;method#getContadorClasesSky#0;class#CabinaInstructores#0" expanded="false" />
+                <element signature="method#seCompletoLaClase#0;class#CabinaInstructores#0" expanded="false" />
+                <element signature="method#darClaseSky#0;class#CabinaInstructores#0" expanded="false" />
+                <element signature="method#darClaseSnow#0;class#CabinaInstructores#0" expanded="false" />
+                <element signature="e#3084#3169#0" expanded="false" />
+                <element signature="method#nuevoProfeDisponible#0;class#CabinaInstructores#0" expanded="false" />
+                <element signature="method#llegaSky#0;class#CabinaInstructores#0" expanded="false" />
+                <element signature="method#llegaSnow#0;class#CabinaInstructores#0" expanded="false" />
+                <element signature="method#limpiarListaNoHayClase#0;class#CabinaInstructores#0" expanded="false" />
+                <element signature="method#limpiarLista#0;class#CabinaInstructores#0" expanded="false" />
+                <element signature="method#consolaLog#0;class#CabinaInstructores#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Medio.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Medio.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Confiteria.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Confiteria.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="61" column="20" lean-forward="false" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
+              <folding>
+                <element signature="method#salirDeCaja#0;class#Confiteria#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Molinete.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Molinete.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="79" lean-forward="true" selection-start-line="7" selection-start-column="79" selection-end-line="7" selection-end-column="79" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/UI/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="33" column="42" lean-forward="true" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ComplejoInvernal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/ComplejoInvernal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+              <folding>
+                <element signature="e#2710#2815#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Esquiador.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Esquiador.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="65" column="26" lean-forward="false" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
+              <folding>
+                <element signature="method#setPostre#0;class#Esquiador#0" expanded="false" />
+                <element signature="method#setMenu#0;class#Esquiador#0" expanded="false" />
+                <element signature="method#setMedio#0;class#Esquiador#0" expanded="false" />
+                <element signature="method#setMedioInicial#0;class#Esquiador#0" expanded="false" />
+                <element signature="method#despertarProfesor#0;class#Esquiador#0" expanded="false" />
+                <element signature="method#buscarProfesor#0;class#Esquiador#0" expanded="false" />
+                <element signature="e#3981#4017#0" expanded="false" />
+                <element signature="method#irAEsquiar#0;class#Esquiador#0" expanded="false" />
+                <element signature="method#visitarConfiteria#0;class#Esquiador#0" expanded="false" />
+                <element signature="method#consolaLog#0;class#Esquiador#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>grupo</find>
+      <find>la silla c</find>
+      <find>agre</find>
+      <find>p</find>
+      <find>se re</find>
+      <find>se ret</find>
+      <find>se r</find>
+      <find>conf1</find>
+      <find>conf2</find>
+      <find>conf31</find>
+      <find>conf4</find>
+      <find>sky1</find>
+      <find>snow1</find>
+      <find>ins1</find>
+      <find>ins2</find>
+      <find>ins3</find>
+      <find>esq1</find>
+      <find>conf5</find>
+      <find>mostrador1</find>
+      <find>menuL</find>
+      <find>clases</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/UI/Principal.form" />
+        <option value="$PROJECT_DIR$/src/UI/EscribirMarco.java" />
+        <option value="$PROJECT_DIR$/src/UI/VentanaGridBag2.java" />
+        <option value="$PROJECT_DIR$/src/UI/MiEvento.java" />
+        <option value="$PROJECT_DIR$/src/UI/MiEventoObject.java" />
+        <option value="$PROJECT_DIR$/src/UI/MiClaseEventListener.java" />
+        <option value="$PROJECT_DIR$/src/UI/Observado.java" />
+        <option value="$PROJECT_DIR$/src/UI/Delegado.java" />
+        <option value="$PROJECT_DIR$/src/UI/Observador.java" />
+        <option value="$PROJECT_DIR$/src/UI/ObservadorTemporal.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Barbero.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Cliente.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Barberia.java" />
+        <option value="$PROJECT_DIR$/src/com/company/MainBarbero.java" />
+        <option value="$PROJECT_DIR$/src/com/company/TimerMain.java" />
+        <option value="$PROJECT_DIR$/src/com/company/MedioElevacion.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$USER_HOME$/Downloads/Peluquero/src/peluquero/Barbero.java" />
+        <option value="$USER_HOME$/Downloads/Peluquero/src/peluquero/Cliente.java" />
+        <option value="$USER_HOME$/Downloads/Peluquero/src/peluquero/Monitor.java" />
+        <option value="$PROJECT_DIR$/src/UI/Barbero.java" />
+        <option value="$PROJECT_DIR$/src/UI/Monitor.java" />
+        <option value="$PROJECT_DIR$/src/UI/Profesor.java" />
+        <option value="$PROJECT_DIR$/src/UI/TestBarberoMonitor.java" />
+        <option value="$PROJECT_DIR$/src/UI/Cabina.java" />
+        <option value="$PROJECT_DIR$/src/UI/Cliente.java" />
+        <option value="$PROJECT_DIR$/src/com/company/TestAerosillas.java" />
+        <option value="$PROJECT_DIR$/src/UI/MiEventoListener.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Molinete.java" />
+        <option value="$PROJECT_DIR$/src/com/company/LectorDeTarjetas.java" />
+        <option value="$PROJECT_DIR$/src/com/company/AeroSilla.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Confiteria.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Medio.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CabinaInstructores.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Instructor.java" />
+        <option value="$PROJECT_DIR$/src/UI/App.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Esquiador.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ComplejoInvernal.java" />
+        <option value="$PROJECT_DIR$/src/UI/Grafica.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Menu.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Mostrador.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="640" />
+    <option name="width" value="640" />
+    <option name="height" value="721" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Production" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="UI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="UI.App" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CentroEsqui" />
+      <envs />
+    </configuration>
+    <configuration name="MainBarbero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.company.MainBarbero" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CentroEsqui" />
+      <envs />
+    </configuration>
+    <configuration name="TestAerosillas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.company.TestAerosillas" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CentroEsqui" />
+      <envs />
+    </configuration>
+    <configuration name="TestBarberoMonitor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="UI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="UI.TestBarberoMonitor" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CentroEsqui" />
+      <envs />
+    </configuration>
+    <configuration name="TimerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.company.TimerMain" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CentroEsqui" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.App" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MainBarbero" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TimerMain" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestBarberoMonitor" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestAerosillas" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.App" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestAerosillas" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestBarberoMonitor" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TimerMain" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MainBarbero" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="790daed0-d77e-40d8-aa94-e0190c7b2def" name="Default" comment="" />
+      <created>1500396300598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1500396300598</updated>
+      <workItem from="1500396343505" duration="7131000" />
+      <workItem from="1500555558066" duration="3022000" />
+      <workItem from="1500560209520" duration="2966000" />
+      <workItem from="1500583890156" duration="3432000" />
+      <workItem from="1500646785849" duration="3345000" />
+      <workItem from="1500655313669" duration="142000" />
+      <workItem from="1500661667325" duration="2124000" />
+      <workItem from="1500834842315" duration="10257000" />
+      <workItem from="1500988845665" duration="7571000" />
+      <workItem from="1501176104972" duration="10500000" />
+      <workItem from="1501365560326" duration="6039000" />
+      <workItem from="1501382615708" duration="7839000" />
+      <workItem from="1501436665460" duration="7187000" />
+      <workItem from="1501454845228" duration="9960000" />
+      <workItem from="1501516658825" duration="5051000" />
+      <workItem from="1501599470982" duration="904000" />
+      <workItem from="1501607704563" duration="951000" />
+      <workItem from="1501636073256" duration="2398000" />
+      <workItem from="1501784772060" duration="17820000" />
+      <workItem from="1502043662182" duration="693000" />
+      <workItem from="1502052031679" duration="10816000" />
+      <workItem from="1502155728361" duration="1611000" />
+      <workItem from="1502220820503" duration="5378000" />
+      <workItem from="1502313214642" duration="9524000" />
+      <workItem from="1502396190157" duration="288000" />
+      <workItem from="1502401861179" duration="7881000" />
+      <workItem from="1502460778661" duration="6766000" />
+      <workItem from="1502491240010" duration="2757000" />
+      <workItem from="1502557917686" duration="3912000" />
+      <workItem from="1502594686824" duration="2200000" />
+      <workItem from="1502646360727" duration="21840000" />
+      <workItem from="1502716527660" duration="7864000" />
+      <workItem from="1502742052568" duration="158000" />
+      <workItem from="1502758516215" duration="4524000" />
+      <workItem from="1502815662312" duration="20606000" />
+      <workItem from="1502890942805" duration="2747000" />
+      <workItem from="1502895854835" duration="7032000" />
+      <workItem from="1502991918887" duration="12867000" />
+      <workItem from="1503070108653" duration="5171000" />
+      <workItem from="1503166458395" duration="1578000" />
+      <workItem from="1503450102227" duration="644000" />
+      <workItem from="1503513710984" duration="3582000" />
+      <workItem from="1503598389490" duration="1176000" />
+      <workItem from="1503668147825" duration="81000" />
+      <workItem from="1503774990609" duration="12048000" />
+      <workItem from="1503942549172" duration="9780000" />
+      <workItem from="1504002095014" duration="14853000" />
+      <workItem from="1504282105657" duration="590000" />
+      <workItem from="1504707686689" duration="28000" />
+      <workItem from="1504983652830" duration="7281000" />
+      <workItem from="1505146310438" duration="6894000" />
+      <workItem from="1505170263375" duration="1679000" />
+      <workItem from="1505332871430" duration="5406000" />
+      <workItem from="1505348959990" duration="581000" />
+      <workItem from="1505686588553" duration="573000" />
+      <workItem from="1505687789698" duration="3080000" />
+      <workItem from="1505740994655" duration="2829000" />
+      <workItem from="1505764576058" duration="7002000" />
+      <workItem from="1505941001258" duration="877000" />
+      <workItem from="1506028999638" duration="589000" />
+      <workItem from="1506084629633" duration="18973000" />
+      <workItem from="1506286383027" duration="6028000" />
+      <workItem from="1506359511140" duration="11541000" />
+      <workItem from="1506461327196" duration="10238000" />
+      <workItem from="1506523028017" duration="1484000" />
+      <workItem from="1506543973790" duration="12791000" />
+      <workItem from="1506691731159" duration="16383000" />
+      <workItem from="1507036987126" duration="9326000" />
+      <workItem from="1507051020933" duration="1947000" />
+      <workItem from="1508334306996" duration="1468000" />
+      <workItem from="1508368510330" duration="584000" />
+      <workItem from="1508520946130" duration="2088000" />
+      <workItem from="1508779437892" duration="5516000" />
+      <workItem from="1508800065207" duration="3288000" />
+      <workItem from="1508853747192" duration="15966000" />
+      <workItem from="1508936398212" duration="2051000" />
+      <workItem from="1509024089842" duration="6171000" />
+      <workItem from="1509115922341" duration="7000" />
+      <workItem from="1509129717089" duration="5069000" />
+      <workItem from="1509307826098" duration="1667000" />
+      <workItem from="1509642879288" duration="1722000" />
+      <workItem from="1511818831930" duration="593000" />
+      <workItem from="1511886748019" duration="3558000" />
+      <workItem from="1511922163639" duration="3584000" />
+      <workItem from="1511956879192" duration="3101000" />
+      <workItem from="1513127249988" duration="238000" />
+      <workItem from="1513155411874" duration="8746000" />
+      <workItem from="1513198944214" duration="7809000" />
+      <workItem from="1513270402567" duration="12805000" />
+      <workItem from="1513366737270" duration="3349000" />
+      <workItem from="1513535957295" duration="16805000" />
+      <workItem from="1513565054827" duration="3844000" />
+      <workItem from="1513604539550" duration="3884000" />
+      <workItem from="1513608858127" duration="9317000" />
+      <workItem from="1513650278494" duration="4142000" />
+      <workItem from="1513691655995" duration="5123000" />
+      <workItem from="1513704671229" duration="18986000" />
+      <workItem from="1513799067476" duration="83000" />
+      <workItem from="1513813393102" duration="1271000" />
+      <workItem from="1513876284984" duration="35000" />
+      <workItem from="1513877440742" duration="9212000" />
+      <workItem from="1513889920102" duration="3755000" />
+      <workItem from="1513974604775" duration="271000" />
+    </task>
+    <task id="LOCAL-00001" summary="Hasta esta fecha, el cuadro de Grafica estaba bien. textMedio1 era el cuadro modelo que faltaba para implementar en todos los demas cuadros de textos">
+      <created>1501786052345</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1501786052345</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="579244000" />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.496875" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32608697" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31784108" sideWeight="0.503125" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39751554" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20064725" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5382309" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50621116" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17546584" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298351" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3268366" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5382309" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3268366" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20689656" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19628906" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4077961" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hasta esta fecha, el cuadro de Grafica estaba bien. textMedio1 era el cuadro modelo que faltaba para implementar en todos los demas cuadros de textos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hasta esta fecha, el cuadro de Grafica estaba bien. textMedio1 era el cuadro modelo que faltaba para implementar en todos los demas cuadros de textos" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="40" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/UI/Delegado.java" />
+    <entry file="file://$USER_HOME$/Downloads/ideone_c1LjqX.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/MainBarbero.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Cliente.java" />
+    <entry file="uml://JAVA/com.company.Mostrador">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.company.Mostrador</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">com.company.Mostrador</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-347.0" y="-51.0" />
+          <SelectedNodes>
+            <node>com.company.Mostrador</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/TimerMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Barberia.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Barbero.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/MedioElevacion.java" />
+    <entry file="file://$PROJECT_DIR$/src/UI/VentanaGridBag2.java" />
+    <entry file="file://$PROJECT_DIR$/src/UI/EscribirMarco.java" />
+    <entry file="file://$PROJECT_DIR$/src/UI/MiEventoObject.java" />
+    <entry file="file://$PROJECT_DIR$/src/UI/ObservadorTemporal.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java" />
+    <entry file="file://$USER_HOME$/Downloads/Peluquero/src/peluquero/Barbero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="70" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Peluquero/src/peluquero/Cliente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="66" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Peluquero/src/peluquero/Monitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="98" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Peluquero/src/peluquero/Ventana.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="204" column="21" lean-forward="true" selection-start-line="204" selection-start-column="21" selection-end-line="204" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="744" column="0" lean-forward="false" selection-start-line="744" selection-start-column="0" selection-end-line="744" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/TestBarberoMonitor.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="387" column="0" lean-forward="false" selection-start-line="387" selection-start-column="0" selection-end-line="387" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="67" column="25" lean-forward="false" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/TestAerosillas.java" />
+    <entry file="file://$PROJECT_DIR$/CentroEsqui.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/ClaseSky.java" />
+    <entry file="file://$PROJECT_DIR$/src/UI/Cabina.java" />
+    <entry file="file://$PROJECT_DIR$/src/UI/Cliente.java" />
+    <entry file="file://$PROJECT_DIR$/src/UI/Profesor.java" />
+    <entry file="file://$PROJECT_DIR$/src/UI/MiEventoListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/AeroSilla.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/LectorDeTarjetas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Instructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="63" column="41" lean-forward="false" selection-start-line="63" selection-start-column="41" selection-end-line="63" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/Grafica.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="51" column="68" lean-forward="false" selection-start-line="51" selection-start-column="68" selection-end-line="51" selection-end-column="68" />
+          <folding>
+            <element signature="method#pintarBotonSky#0;class#Marco#0" expanded="false" />
+            <element signature="method#pintarBotonSnow#0;class#Marco#0" expanded="false" />
+            <element signature="method#pintarSeFueProfe#0;class#Marco#0" expanded="false" />
+            <element signature="method#pintarVolvioProfe#0;class#Marco#0" expanded="false" />
+            <element signature="method#quitarBotonSky#0;class#Marco#0" expanded="false" />
+            <element signature="method#quitarBotonSnow#0;class#Marco#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diagrama de clases.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="117.0" y="240.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/UI.App">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>UI.App</OriginalElement>
+          <nodes>
+            <node x="" y="">UI.App</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="36.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/UI">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>UI</OriginalElement>
+          <nodes>
+            <node x="" y="">UI.App</node>
+            <node x="" y="">UI.Marco</node>
+            <node x="" y="">UI.Grafica</node>
+            <node x="" y="">UI.MiEventoListener</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="102.0" y="93.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">com</node>
+            <node x="" y="">META-INF</node>
+            <node x="" y="">jdk</node>
+            <node x="" y="">netscape</node>
+            <node x="" y="">oracle</node>
+            <node x="" y="">java</node>
+            <node x="" y="">UI</node>
+            <node x="" y="">javax</node>
+            <node x="" y="">org</node>
+            <node x="" y="">javafx</node>
+            <node x="" y="">net</node>
+            <node x="" y="">sun</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="192.0" y="203.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.company.CabinaInstructores">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.company.CabinaInstructores</OriginalElement>
+          <nodes>
+            <node x="" y="">com.company.CabinaInstructores</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="75.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MODULES/mdl-CentroEsqui">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement>mdl-CentroEsqui</OriginalElement>
+          <nodes>
+            <node x="" y="">mdl-CentroEsqui</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="74.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.company.AeroSilla">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.company.AeroSilla</OriginalElement>
+          <nodes>
+            <node x="" y="">com.company.AeroSilla</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="48.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com</OriginalElement>
+          <nodes>
+            <node x="" y="">com.oracle</node>
+            <node x="" y="">com.sun</node>
+            <node x="" y="">com.company</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="66.0" y="90.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/CabinaInstructores.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="285" column="0" lean-forward="false" selection-start-line="285" selection-start-column="0" selection-end-line="285" selection-end-column="0" />
+          <folding>
+            <element signature="method#CabinaInstructores#0;class#CabinaInstructores#0" expanded="false" />
+            <element signature="docComment;method#getContadorClasesSky#0;class#CabinaInstructores#0" expanded="false" />
+            <element signature="method#seCompletoLaClase#0;class#CabinaInstructores#0" expanded="false" />
+            <element signature="method#darClaseSky#0;class#CabinaInstructores#0" expanded="false" />
+            <element signature="method#darClaseSnow#0;class#CabinaInstructores#0" expanded="false" />
+            <element signature="e#3084#3169#0" expanded="false" />
+            <element signature="method#nuevoProfeDisponible#0;class#CabinaInstructores#0" expanded="false" />
+            <element signature="method#llegaSky#0;class#CabinaInstructores#0" expanded="false" />
+            <element signature="method#llegaSnow#0;class#CabinaInstructores#0" expanded="false" />
+            <element signature="method#limpiarListaNoHayClase#0;class#CabinaInstructores#0" expanded="false" />
+            <element signature="method#limpiarLista#0;class#CabinaInstructores#0" expanded="false" />
+            <element signature="method#consolaLog#0;class#CabinaInstructores#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Mostrador.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Confiteria.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="61" column="20" lean-forward="false" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
+          <folding>
+            <element signature="method#salirDeCaja#0;class#Confiteria#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Menu.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Medio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/ComplejoInvernal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding>
+            <element signature="e#2710#2815#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Esquiador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="65" column="26" lean-forward="false" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
+          <folding>
+            <element signature="method#setPostre#0;class#Esquiador#0" expanded="false" />
+            <element signature="method#setMenu#0;class#Esquiador#0" expanded="false" />
+            <element signature="method#setMedio#0;class#Esquiador#0" expanded="false" />
+            <element signature="method#setMedioInicial#0;class#Esquiador#0" expanded="false" />
+            <element signature="method#despertarProfesor#0;class#Esquiador#0" expanded="false" />
+            <element signature="method#buscarProfesor#0;class#Esquiador#0" expanded="false" />
+            <element signature="e#3981#4017#0" expanded="false" />
+            <element signature="method#irAEsquiar#0;class#Esquiador#0" expanded="false" />
+            <element signature="method#visitarConfiteria#0;class#Esquiador#0" expanded="false" />
+            <element signature="method#consolaLog#0;class#Esquiador#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.company">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.company</OriginalElement>
+          <nodes>
+            <node x="155.7719047619048" y="1728.0">com.company.Instructor</node>
+            <node x="220.50107142857144" y="560.0">com.company.Confiteria</node>
+            <node x="78.38142857142864" y="304.0">com.company.Medio</node>
+            <node x="67.33976190476196" y="817.0">com.company.ComplejoInvernal</node>
+            <node x="212.0" y="125.0">com.company.AeroSilla</node>
+            <node x="0.0" y="147.5">com.company.Molinete</node>
+            <node x="15.593333333333305" y="626.5">com.company.Medio.HiloMedio</node>
+            <node x="6.25" y="0.0">com.company.LectorDeTarjetas</node>
+            <node x="128.3219047619047" y="1385.0">com.company.CabinaInstructores</node>
+            <node x="244.98690476190473" y="1018.0">com.company.Esquiador</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.company.ComplejoInvernal" target="com.company.Medio">
+              <point x="17.33333333333337" y="-70.5" />
+              <point x="188.67309523809533" y="797.0" />
+              <point x="204.0933333333333" y="797.0" />
+              <point x="204.0933333333333" y="540.0" />
+              <point x="230.63142857142864" y="540.0" />
+              <point x="50.75" y="103.0" />
+            </edge>
+            <edge source="com.company.Medio.HiloMedio" target="com.company.Medio">
+              <point x="-55.66666666666666" y="-37.0" />
+              <point x="43.42666666666665" y="530.0" />
+              <point x="95.2980952380953" y="530.0" />
+              <point x="-84.58333333333334" y="103.0" />
+            </edge>
+            <edge source="com.company.Medio" target="com.company.Esquiador">
+              <point x="84.58333333333334" y="103.0" />
+              <point x="264.464761904762" y="540.0" />
+              <point x="458.00107142857144" y="540.0" />
+              <point x="458.00107142857144" y="998.0" />
+              <point x="435.65357142857135" y="998.0" />
+              <point x="86.66666666666663" y="-158.5" />
+            </edge>
+            <edge source="com.company.Esquiador" target="com.company.Instructor">
+              <point x="52.0" y="158.5" />
+              <point x="400.5219047619048" y="1698.0" />
+              <point x="367.0219047619048" y="1698.0" />
+              <point x="81.25" y="-114.5" />
+            </edge>
+            <edge source="com.company.Medio" target="com.company.AeroSilla">
+              <point x="16.91666666666667" y="-103.0" />
+              <point x="196.7980952380953" y="264.0" />
+              <point x="245.83333333333331" y="264.0" />
+              <point x="-67.66666666666667" y="59.5" />
+            </edge>
+            <edge source="com.company.CabinaInstructores" target="com.company.Instructor">
+              <point x="81.0" y="136.5" />
+              <point x="330.8219047619047" y="1678.0" />
+              <point x="302.0219047619048" y="1678.0" />
+              <point x="16.25" y="-114.5" />
+            </edge>
+            <edge source="com.company.Instructor" target="com.company.Esquiador">
+              <point x="48.75" y="-114.5" />
+              <point x="334.5219047619048" y="1688.0" />
+              <point x="389.5219047619048" y="1688.0" />
+              <point x="389.5219047619048" y="1365.0" />
+              <point x="366.3202380952381" y="1365.0" />
+              <point x="17.33333333333337" y="158.5" />
+            </edge>
+            <edge source="com.company.Medio" target="com.company.Molinete">
+              <point x="-16.916666666666657" y="-103.0" />
+              <point x="162.96476190476199" y="284.0" />
+              <point x="160.0" y="284.0" />
+              <point x="64.0" y="37.0" />
+            </edge>
+            <edge source="com.company.CabinaInstructores" target="com.company.Esquiador">
+              <point x="0.0" y="-136.5" />
+              <point x="249.8219047619047" y="1365.0" />
+              <point x="262.3202380952381" y="1365.0" />
+              <point x="-86.66666666666663" y="158.5" />
+            </edge>
+            <edge source="com.company.ComplejoInvernal" target="com.company.CabinaInstructores">
+              <point x="-29.71428571428578" y="70.5" />
+              <point x="141.62547619047618" y="998.0" />
+              <point x="139.22023809523813" y="998.0" />
+              <point x="139.22023809523813" y="1365.0" />
+              <point x="152.62190476190477" y="1365.0" />
+              <point x="-97.19999999999993" y="-136.5" />
+            </edge>
+            <edge source="com.company.Esquiador" target="com.company.Confiteria">
+              <point x="52.0" y="-158.5" />
+              <point x="400.9869047619047" y="998.0" />
+              <point x="377.32023809523804" y="998.0" />
+              <point x="377.32023809523804" y="797.0" />
+              <point x="419.12607142857144" y="797.0" />
+              <point x="85.12499999999999" y="103.5" />
+            </edge>
+            <edge source="com.company.Molinete" target="com.company.LectorDeTarjetas">
+              <point x="48.0" y="-37.0" />
+              <point x="144.0" y="100.0" />
+              <point x="131.5" y="100.0" />
+              <point x="41.75" y="37.5" />
+            </edge>
+            <edge source="com.company.Confiteria" target="com.company.Esquiador">
+              <point x="28.375" y="103.5" />
+              <point x="362.37607142857144" y="998.0" />
+              <point x="366.32023809523804" y="998.0" />
+              <point x="17.333333333333314" y="-158.5" />
+            </edge>
+            <edge source="com.company.Esquiador" target="com.company.CabinaInstructores">
+              <point x="-17.333333333333314" y="158.5" />
+              <point x="331.6535714285714" y="1365.0" />
+              <point x="347.02190476190475" y="1365.0" />
+              <point x="97.20000000000005" y="-136.5" />
+            </edge>
+            <edge source="com.company.ComplejoInvernal" target="com.company.Esquiador">
+              <point x="89.14285714285711" y="70.5" />
+              <point x="260.4826190476191" y="978.0" />
+              <point x="331.65357142857135" y="978.0" />
+              <point x="-17.33333333333337" y="-158.5" />
+            </edge>
+            <edge source="com.company.Instructor" target="com.company.CabinaInstructores">
+              <point x="-16.25" y="-114.5" />
+              <point x="269.5219047619048" y="1708.0" />
+              <point x="249.8219047619047" y="1708.0" />
+              <point x="0.0" y="136.5" />
+            </edge>
+            <edge source="com.company.ComplejoInvernal" target="com.company.Confiteria">
+              <point x="86.66666666666663" y="-70.5" />
+              <point x="258.0064285714286" y="797.0" />
+              <point x="305.62607142857144" y="797.0" />
+              <point x="-28.375" y="103.5" />
+            </edge>
+            <edge source="com.company.ComplejoInvernal" target="com.company.Medio.HiloMedio">
+              <point x="-52.0" y="-70.5" />
+              <point x="119.33976190476196" y="797.0" />
+              <point x="140.8433333333333" y="797.0" />
+              <point x="41.75" y="37.0" />
+            </edge>
+            <edge source="com.company.Esquiador" target="com.company.ComplejoInvernal">
+              <point x="-52.0" y="-158.5" />
+              <point x="296.9869047619047" y="988.0" />
+              <point x="230.7683333333334" y="988.0" />
+              <point x="59.428571428571445" y="70.5" />
+            </edge>
+            <edge source="com.company.Instructor" target="com.company.ComplejoInvernal">
+              <point x="-113.75" y="-114.5" />
+              <point x="172.0219047619048" y="1708.0" />
+              <point x="97.46892857142856" y="1708.0" />
+              <point x="97.46892857142856" y="998.0" />
+              <point x="82.19690476190485" y="998.0" />
+              <point x="-89.14285714285711" y="70.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="176.0" y="485.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Molinete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="79" lean-forward="true" selection-start-line="7" selection-start-column="79" selection-end-line="7" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="33" column="42" lean-forward="true" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CentroEsqui</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>MigLayout</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
